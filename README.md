@@ -1,0 +1,2 @@
+# pyMAB
+Multi Armed Bandits
